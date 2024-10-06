@@ -116,8 +116,7 @@ Merging integrates the changes from one branch into another.
 
 ### Commands:
 1. First, switch to the branch where you want the changes:
-```
-bash
+```bash
 git checkout <branch-name>
 ```
 2. Then, merge the changes from another branch:
